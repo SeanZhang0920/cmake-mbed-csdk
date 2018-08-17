@@ -1,0 +1,240 @@
+[
+    {
+        "module": "NTPClient\\NTPClient.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 484
+        }
+    }, 
+    {
+        "module": "[fill]", 
+        "size": {
+            ".data": 20, 
+            ".bss": 62, 
+            ".text": 522
+        }
+    }, 
+    {
+        "module": "[lib]\\c.a", 
+        "size": {
+            ".data": 2548, 
+            ".bss": 127, 
+            ".text": 56800
+        }
+    }, 
+    {
+        "module": "[lib]\\gcc.a", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 4664
+        }
+    }, 
+    {
+        "module": "[lib]\\m.a", 
+        "size": {
+            ".data": 1, 
+            ".bss": 0, 
+            ".text": 3504
+        }
+    }, 
+    {
+        "module": "[lib]\\misc", 
+        "size": {
+            ".data": 16, 
+            ".bss": 28, 
+            ".text": 252
+        }
+    }, 
+    {
+        "module": "[lib]\\nosys.a", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 32
+        }
+    }, 
+    {
+        "module": "[lib]\\stdc++.a", 
+        "size": {
+            ".data": 40, 
+            ".bss": 204, 
+            ".text": 6643
+        }
+    }, 
+    {
+        "module": "azure-iot-sdk-c\\c-utility", 
+        "size": {
+            ".data": 224, 
+            ".bss": 321, 
+            ".text": 25204
+        }
+    }, 
+    {
+        "module": "azure-iot-sdk-c\\certs", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 6173
+        }
+    }, 
+    {
+        "module": "azure-iot-sdk-c\\iothub_client", 
+        "size": {
+            ".data": 152, 
+            ".bss": 0, 
+            ".text": 47991
+        }
+    }, 
+    {
+        "module": "azure-iot-sdk-c\\umqtt", 
+        "size": {
+            ".data": 16, 
+            ".bss": 0, 
+            ".text": 12176
+        }
+    }, 
+    {
+        "module": "easy-connect\\atmel-rf-driver", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 58
+        }
+    }, 
+    {
+        "module": "easy-connect\\easy-connect.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 128, 
+            ".text": 1970
+        }
+    }, 
+    {
+        "module": "easy-connect\\esp8266-driver", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 87
+        }
+    }, 
+    {
+        "module": "easy-connect\\mcr20a-rf-driver", 
+        "size": {
+            ".data": 4, 
+            ".bss": 196, 
+            ".text": 88
+        }
+    }, 
+    {
+        "module": "easy-connect\\stm-spirit1-rf-driver", 
+        "size": {
+            ".data": 4, 
+            ".bss": 196, 
+            ".text": 88
+        }
+    }, 
+    {
+        "module": "easy-connect\\wifi-ism43362", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 36
+        }
+    }, 
+    {
+        "module": "easy-connect\\wifi-x-nucleo-idw01m1", 
+        "size": {
+            ".data": 4, 
+            ".bss": 68, 
+            ".text": 174
+        }
+    }, 
+    {
+        "module": "easy-connect\\wnc14a2a-driver", 
+        "size": {
+            ".data": 44, 
+            ".bss": 272, 
+            ".text": 581
+        }
+    }, 
+    {
+        "module": "iothub_client_sample_mqtt.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 2053, 
+            ".text": 1709
+        }
+    }, 
+    {
+        "module": "main.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 272, 
+            ".text": 206
+        }
+    }, 
+    {
+        "module": "mbed-os\\drivers", 
+        "size": {
+            ".data": 4, 
+            ".bss": 100, 
+            ".text": 1375
+        }
+    }, 
+    {
+        "module": "mbed-os\\events", 
+        "size": {
+            ".data": 0, 
+            ".bss": 1576, 
+            ".text": 1491
+        }
+    }, 
+    {
+        "module": "mbed-os\\features", 
+        "size": {
+            ".data": 154, 
+            ".bss": 46946, 
+            ".text": 188140
+        }
+    }, 
+    {
+        "module": "mbed-os\\hal", 
+        "size": {
+            ".data": 4, 
+            ".bss": 68, 
+            ".text": 1653
+        }
+    }, 
+    {
+        "module": "mbed-os\\platform", 
+        "size": {
+            ".data": 276, 
+            ".bss": 361, 
+            ".text": 5696
+        }
+    }, 
+    {
+        "module": "mbed-os\\rtos", 
+        "size": {
+            ".data": 168, 
+            ".bss": 6081, 
+            ".text": 14826
+        }
+    }, 
+    {
+        "module": "mbed-os\\targets", 
+        "size": {
+            ".data": 5, 
+            ".bss": 1137, 
+            ".text": 15086
+        }
+    }, 
+    {
+        "summary": {
+            "static_ram": 63888, 
+            "total_flash": 401401
+        }
+    }
+]

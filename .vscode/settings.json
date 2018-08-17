@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "vector.h": "c",
+        "iothubtransport.h\u0000nsport.h": "c",
+        "iothubtransport.h\u0000port.h": "c",
+        "crt_abstractions.h": "c",
+        "xio.h": "c"
+    }
+}
