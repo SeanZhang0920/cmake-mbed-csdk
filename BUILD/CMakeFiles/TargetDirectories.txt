@@ -1,0 +1,3 @@
+C:/Users/t-xinz/IoT/CSDK/BUILD/CMakeFiles/test1.elf.dir
+C:/Users/t-xinz/IoT/CSDK/BUILD/CMakeFiles/edit_cache.dir
+C:/Users/t-xinz/IoT/CSDK/BUILD/CMakeFiles/rebuild_cache.dir
